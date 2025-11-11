@@ -1,4 +1,5 @@
 **Interested in**
+- c++ ... keep learning
 - web 
 - nodejs
 - rust
