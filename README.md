@@ -1,8 +1,9 @@
 **Interested in**
-- c++ ... keep learning
-- web 
-- nodejs
+- c++ 
 - rust
+- nodejs Addon
+- wasm  
+- web 
 - docker
 
 
